@@ -4,7 +4,7 @@ Fork from  https://github.com/MoZyo/RedmiBook-13-10th-Gen-Intel-Hackintosh 非�
 
 
 
-已经支持的功能:
+已经支持的功能:  
  Intel UHD620 iGPU  
  USB Ports  
  Sleep / Wake  
@@ -24,7 +24,7 @@ Fork from  https://github.com/MoZyo/RedmiBook-13-10th-Gen-Intel-Hackintosh 非�
  WiFi (Not yet supported)
  MX250 dGPU (Not supported)  
 
-备注:
+备注:  
 wifi 通过第三方驱动补丁的comfast 150M的wifi接收器  
 bluetooth  通过蓝牙键盘送的第三方接收器，可以连接各种蓝牙设备，包括airpods2  
 
