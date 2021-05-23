@@ -12,7 +12,7 @@ Fork from  https://github.com/MoZyo/RedmiBook-13-10th-Gen-Intel-Hackintosh ÈùûÂ∏
  NVRAM  
  HDMI Out  
  Headphone Sound  
- Intel UHD620 iGPU
+ Intel UHD620 iGPU  
  Internal / External Mic  
  
  
