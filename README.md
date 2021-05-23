@@ -1,5 +1,5 @@
 # RedmiBook-13-10th-Gen-Intel-Hackintosh
-红米笔记本13寸 配置i7-10510u 16G内存 500G硬盘
+红米笔记本13寸 配置i7-10510u 16G内存 500G硬盘  
 Fork from  https://github.com/MoZyo/RedmiBook-13-10th-Gen-Intel-Hackintosh 非常感谢
 
 已经支持的功能:
