@@ -11,17 +11,17 @@ Fork from  https://github.com/MoZyo/RedmiBook-13-10th-Gen-Intel-Hackintosh 非�
  HDMI Out  
  Headphone Sound  
  Intel UHD620 iGPU
- Internal / External Mic
+ Internal / External Mic  
 没有支持:
  Internal Speakers (I'M GOING NUTS!)  
  Backlight Controls  
  Bluetooth
  WiFi (Not yet supported)
- MX250 dGPU (Not supported)
+ MX250 dGPU (Not supported)  
 
 备注:
 wifi 通过第三方驱动补丁的comfast 150M的wifi接收器  
-bluetooth  通过蓝牙键盘送的第三方接收器，可以连接各种蓝牙设备，包括airpods2
+bluetooth  通过蓝牙键盘送的第三方接收器，可以连接各种蓝牙设备，包括airpods2  
 
 HDMI输出不正常，感谢b站这位UP主提供的思路，https://www.bilibili.com/video/BV1AT4y157oJ?from=search&seid=197191053196037945
 通过opencore configurator模拟成2013款的macbook pro并生成序列号之后，hdmi接口输出正常，不过还是需要每次开机后再插入才可以，直接连着线开机不能显示扩展屏幕
