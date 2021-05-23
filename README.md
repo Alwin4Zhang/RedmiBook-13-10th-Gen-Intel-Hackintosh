@@ -17,7 +17,7 @@ Fork from  https://github.com/MoZyo/RedmiBook-13-10th-Gen-Intel-Hackintosh 非�
  
  
  
-没有支持:
+没有支持:  
  Internal Speakers (I'M GOING NUTS!)  
  Backlight Controls  
  Bluetooth
