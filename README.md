@@ -21,7 +21,7 @@ Fork from  https://github.com/MoZyo/RedmiBook-13-10th-Gen-Intel-Hackintosh 非�
  Internal Speakers (I'M GOING NUTS!)  
  Backlight Controls  
  Bluetooth
- WiFi (Not yet supported)
+ WiFi (Not yet supported)  
  MX250 dGPU (Not supported)  
 
 备注:  
